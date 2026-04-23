@@ -9,7 +9,7 @@
 
 ## 👩‍💻 Обо мне
 
-Фронтенд-разработчик с опытом работы на `Vue`, `Nuxt` и `TypeScript`, а также с базовыми знаниями `React`.
+Я фронтенд-разработчик с опытом работы на `Vue`, `Nuxt` и `TypeScript`, а также с базовыми знаниями `React`.
 Создаю понятные и удобные интерфейсы, уделяю внимание архитектуре проекта, читаемости и масштабируемости кода.
 Быстро осваиваю новые технологии и постоянно развиваю свои навыки.
 
@@ -25,9 +25,7 @@
 - Увлекаюсь современной литературой и корейской культурой
 - Играю на фортепиано и контрабасе
 
----
-
-## 📬 Контакты
+### 📬 Контакты
 
 <div>
   <a href="https://t.me/Anastasia_Niii">
@@ -58,25 +56,25 @@
 
 ### State management и сборка
 <div>
-  <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="40" height="40" />
+  <img src="https://github.com/alvarosabu/pinia-demo/blob/main/src/assets/pinia.svg" title="Pinia" alt="Pinia" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />
 </div>
 
 ### Backend и базы данных
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
 </div>
 
 ### Инструменты
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/capacitor/capacitor-original.svg" title="Capacitor" alt="Capacitor" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/capacitor/capacitor-original.svg" title="Capacitor" alt="Capacitor" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />
 </div>
 
